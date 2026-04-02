@@ -2,7 +2,7 @@
 
 A tiny GitHub Actions helper that prevents free Supabase projects from being automatically paused due to inactivity.
 
-Supabase pauses inactive free-tier projects after about a week.  
+Supabase pauses inactive free-tier projects after about a week.  1
 If a project stays paused for 90 days, it is permanently deleted.
 
 This workflow performs a lightweight daily ping to each project’s  
